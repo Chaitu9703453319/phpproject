@@ -1,5 +1,4 @@
 public class AddTwoNumbers {
-
    public static void main(String[] args) {
         
       int num1 = 10, num2 = 5, sum;
